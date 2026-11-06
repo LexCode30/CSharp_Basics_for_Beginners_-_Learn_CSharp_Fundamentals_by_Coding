@@ -1,0 +1,97 @@
+# CSharp Basics for Beginners - Learn CSharp Fundamentals by Coding
+
+1. Introduction  [s1.html]
+    001. What is this Course  ->  https://drive.google.com/file/d/1j3CEA7ZoOYi8pymmabuRUXBhicEWPag0/preview
+    002. About Me  ->  https://drive.google.com/file/d/1QCPoUlsOCy9wu29Y_1Gn3ezPpjoV8iss/preview
+
+2. Introduction to C# and .NET Framework  [s2.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1J7QJBWevPLSUgI-FseAWVFaUnWPti-Lk/preview
+    002. C# vs .NET  ->  https://drive.google.com/file/d/1KfctpiTfoIeiUii7aT_OsAvws27SmrfG/preview
+    003. What is CLR  ->  https://drive.google.com/file/d/1gaN5KCFF95kTtucIcrIupmbBab_hs9-S/preview
+    004. Architecture of .NET Applications  ->  https://drive.google.com/file/d/1UFRL7afP54R1fe2KPJFDxkyMnRMC4Rmd/preview
+    005. Our First C# Application  ->  https://drive.google.com/file/d/1OdZMWjV45V0M3URKyIHk00FVxH_j-iHN/preview
+
+3. Primitive Types and Expressions  [s3.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1HxJimrjgxLjaHOTeXgqCgEexJaVYgk7S/preview
+    002. Variables and Constants  ->  https://drive.google.com/file/d/130AFWFu2MTCyCKHmaO6kmjdvhWSRPA6b/preview
+    003. Overflowing  ->  https://drive.google.com/file/d/15KTQKsEUZK3K3yBtkf3J0aDlYxdGRDzG/preview
+    004. Scope  ->  https://drive.google.com/file/d/12Jecwqn8f_K6-7NXDr2XNvq0kishVjO3/preview
+    005. Demo Variables and Constants  ->  https://drive.google.com/file/d/1Plk1ZCmqjWfAip-pp6YvOYDegwRaDk2m/preview
+    006. Type Conversion  ->  https://drive.google.com/file/d/1PaXDAAFIX9U6Xstq66Od-XydsfeJJCl-/preview
+    007. Demo Type Conversion  ->  https://drive.google.com/file/d/138_hosby6vNOlCoqH7iEcl2OstMErFTb/preview
+    008. Operators  ->  https://drive.google.com/file/d/1bCdr7k1IDrYoWAuIdh6mTG-GD7xi7HF9/preview
+    009. Demo Operators  ->  https://drive.google.com/file/d/1AKlk8r1bq1AsRxKRn2g5e4M_Yu56XEci/preview
+    010. Comments  ->  https://drive.google.com/file/d/1lZnzdf7f5mlb4lEGpok4E-9-uKW683AW/preview
+    011. Summary  ->  https://drive.google.com/file/d/1rFBLoyuZ8uzgJ7QO6PSldWdwP1C2B-jk/preview
+
+4. Non-Primitive Types  [s4.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1Q9fKlsTycKUSVGJSua2lUcLqCop5K5Q2/preview
+    002. Classes  ->  https://drive.google.com/file/d/1HazePx6zaJEd-krxRzvpn2SkoAJnYRwQ/preview
+    003. Demo Classes  ->  https://drive.google.com/file/d/1ulezavfQqvIBWFzuI7SAJR-sIJiD8A-I/preview
+    004. Structs  ->  https://drive.google.com/file/d/1YQb6gebW-uo0ZwF99HIdAXb4uNCFY_4j/preview
+    005. Arrays  ->  https://drive.google.com/file/d/18aTB5gjM-8gpDO0NCkg4-OS8YEkMmmzg/preview
+    006. Demo Arrays  ->  https://drive.google.com/file/d/1D8kYA9fkHQO53q_If9Mr4FsTpopRjGVt/preview
+    007. Strings  ->  https://drive.google.com/file/d/1eDVW_1aKfS9VEpHfOn44s29texZ2NM4j/preview
+    008. Demo Strings  ->  https://drive.google.com/file/d/14iRhnzXiAjrn1fcOryGDR2KCcS3Hci5r/preview
+    009. Enums  ->  https://drive.google.com/file/d/1JJuF-Ob6GCnJspQVDGPCucW-xFH2KCVD/preview
+    010. Demo Enums  ->  https://drive.google.com/file/d/1PPC_Hu-wBQSl59uh8VYTYjnwi3JGnGa_/preview
+    011. Reference Types and Value Types  ->  https://drive.google.com/file/d/1bLsDK2dMa9hzkbRSMOfWEMGwUXa8Zerj/preview
+    012. Demo Reference Types and Value Types  ->  https://drive.google.com/file/d/1yyekp1DzsPORY6dO3yWYeMttekxL-Tbh/preview
+    013. Demo Reference Types and Value Types  ->  https://drive.google.com/file/d/1sE6qzN12Qhl7hWo8iEYiAomUf1nkewc5/preview
+    014. Summary  ->  https://drive.google.com/file/d/1STmreJvbpLCTa218lLoT8_B36QiB-t8x/preview
+
+5. Control Flow  [s5.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1qX7WS7QNsSzAqGqNhy_c7alHCHDJZYto/preview
+    002. Conditional Statements  ->  https://drive.google.com/file/d/1huzDdYc8PaGBQ51bBjKg-JyhxPlyLNTz/preview
+    003. Demo IfElse and SwitchCase  ->  https://drive.google.com/file/d/1R6mgzTPsBewkwFGt6iHEOvSk5NLSt8Rt/preview
+    004. Iteration Statements  ->  https://drive.google.com/file/d/1sC7PQcRzaW5Q3D8QMIDrxW_vq4VQJ_TF/preview
+    005. Demo For Loops  ->  https://drive.google.com/file/d/1xszn0iybsEA1dQcWjdeu7KHV6t9IDNAq/preview
+    006. Demo Foreach Loops  ->  https://drive.google.com/file/d/1o4P3mQBWPSCCvagTwNQImS-Vtzgy7PBv/preview
+    007. Demo While Loops  ->  https://drive.google.com/file/d/11NR6xmeQd41fVqvzrBhyrKg6dRPiTUC_/preview
+    008. Random Class  ->  https://drive.google.com/file/d/1wn3favrmrdayM9XIPJAveRGvvnsexIUh/preview
+    009. Summary  ->  https://drive.google.com/file/d/1tIyH-rhSHh98VjpssTxCO5u2DAJwgV4Y/preview
+
+6. Arrays and Lists  [s6.html]
+    001. Introduction  ->  https://drive.google.com/file/d/17iiDRPG7dvh3cK_3mdcVvSpmicSIm4KM/preview
+    002. Arrays  ->  https://drive.google.com/file/d/1PYvuno5uQlSDTx0n5QGQxEoFJ4UeLA00/preview
+    003. Demo Arrays  ->  https://drive.google.com/file/d/1ecJR-HljHX5scj7olfeWWL4Avq3Vmcvd/preview
+    004. Lists  ->  https://drive.google.com/file/d/1ckER5MlK4632vZd81y8GsclCGeMaYIvA/preview
+    005. Demo Lists  ->  https://drive.google.com/file/d/1hH19z1FIUbi2cOSG06GbM6MXzIFK80Fq/preview
+    006. Summary  ->  https://drive.google.com/file/d/1PY4StAdjlxniFxVkLoS_Dn_8D7j2tTqJ/preview
+
+7. Working with Dates  [s7.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1izwOFfO-fagwx2ayECDc2jFDkUTeTzhw/preview
+    002. DateTime  ->  https://drive.google.com/file/d/1O3J8tz2sQreLJtyQ7EAER-T49Sfyi6_q/preview
+    003. TimeSpan  ->  https://drive.google.com/file/d/1VhHyIaZ14JXBNDCvn2GsvB--jLPW2t2i/preview
+    004. Summary  ->  https://drive.google.com/file/d/1Vu3EDSzf0cn94qI_L_LprY3aTEb4g-ED/preview
+
+8. Working with Text  [s8.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1FDb_XPc-iWw8CTWwNiV2SbVEqoQAPwJM/preview
+    002. String  ->  https://drive.google.com/file/d/1bfvfGQAT1e-rKMr_hAK6mFQ0FOFkby9J/preview
+    003. Demo String  ->  https://drive.google.com/file/d/1x17IiHkXxhw6FSW2Xh8L3K-HnnTXnc1p/preview
+    004. Live Coding Summarising Text  ->  https://drive.google.com/file/d/1eMIEZPP8gXvEkff274R-ZbXi0v6Q3Sdi/preview
+    005. StringBuilder  ->  https://drive.google.com/file/d/1kOC08Z8kuaJX8yvyPeBDjtZYFvTmNt7j/preview
+    006. Demo StringBuilder  ->  https://drive.google.com/file/d/1Db2Zu9w6sxz0kY__dR-GVZVPstOrzDMT/preview
+    007. Procedural Programming  ->  https://drive.google.com/file/d/1T-Ya8Cpv8DAj5zkCHjsMAGSvL7zIg5G4/preview
+    008. Summary  ->  https://drive.google.com/file/d/1YnzwB-ysvAizDT2FfBBGAazWfACeKR0n/preview
+
+9. Working with Files  [s9.html]
+    001. Introduction  ->  https://drive.google.com/file/d/19vh_SKj-q_9klJXkYE0qBuXrh9YJndXC/preview
+    002. System.IO Namespace  ->  https://drive.google.com/file/d/1T-3wNz8pK8yd1PLJMZ3uq1jn_3tgS1Mf/preview
+    003. Demo File and FileInfo  ->  https://drive.google.com/file/d/15BYYpftWjk4t7glYgTbnvgQoWjrQ4Kwb/preview
+    004. Demo Directory and DirectoryInfo  ->  https://drive.google.com/file/d/1qAnAx5qCB5sRNWQS-9TvOPnMXSXEOXVQ/preview
+    005. Demo Path  ->  https://drive.google.com/file/d/1mTLryUQ6JdJIiZnqDCbPlM-gTDXHqa5L/preview
+    006. Summary  ->  https://drive.google.com/file/d/1X2BAV_I9UM4hiMkIrwTgT7dcBheb1XBV/preview
+
+10. Debugging Applications  [s10.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1bQKR8W6XNtV1GGPmkEqOtUfmALbLPXvi/preview
+    002. Debugging Tools in Visual Studio  ->  https://drive.google.com/file/d/1YiRG5GAVoY1e7Ct8UOwSW6Nl-teIwwgy/preview
+    003. Removing Side Effects  ->  https://drive.google.com/file/d/1J9M_ctCj9-obcI9Pwrqd1WDW7KjH-mfa/preview
+    004. Defensive Programming  ->  https://drive.google.com/file/d/1BxedmGREiTtVrNlcYCwXGXylnYTPUP7B/preview
+    005. Call Stack Window  ->  https://drive.google.com/file/d/1hly4t1Lr_oPMWn4F7r2J9BwW8m7Y1gLu/preview
+    006. Locals and Autos Windows  ->  https://drive.google.com/file/d/1pbiRD7dndPe-hQCWecokcLnh6jDb0r3J/preview
+    007. Summary  ->  https://drive.google.com/file/d/19Dv-CU8_Q8XHaVcfIirjId6qBAvosQq5/preview
+
+11. What s Next  [s11.html]
+    001. What s Next  ->  https://drive.google.com/file/d/1B_DDrwL0I7-Df99lMfHYgiA7b2Rj9zPs/preview
+    002. Final Words  ->  https://drive.google.com/file/d/1CaSNyrmzmdON7l010Ralq5AuPMiQy9Js/preview

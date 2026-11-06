@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://LexCode30.github.io/CSharp_Basics_for_Beginners_-_Learn_CSharp_Fundamentals_by_Coding/sitemap.xml

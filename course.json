@@ -1,0 +1,604 @@
+{
+  "name": "CSharp Basics for Beginners - Learn CSharp Fundamentals by Coding",
+  "slug": "CSharp_Basics_for_Beginners_-_Learn_CSharp_Fundamentals_by_Coding",
+  "url": "https://LexCode30.github.io/CSharp_Basics_for_Beginners_-_Learn_CSharp_Fundamentals_by_Coding/",
+  "category": "programming",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is this Course",
+          "id": "1j3CEA7ZoOYi8pymmabuRUXBhicEWPag0",
+          "anchor": "v-1j3CEA7ZoOYi8pymmabuRUXBhicEWPag0",
+          "href": "s1.html#v-1j3CEA7ZoOYi8pymmabuRUXBhicEWPag0"
+        },
+        {
+          "number": 2,
+          "title": "About Me",
+          "id": "1QCPoUlsOCy9wu29Y_1Gn3ezPpjoV8iss",
+          "anchor": "v-1QCPoUlsOCy9wu29Y_1Gn3ezPpjoV8iss",
+          "href": "s1.html#v-1QCPoUlsOCy9wu29Y_1Gn3ezPpjoV8iss"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Introduction to C# and .NET Framework",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1J7QJBWevPLSUgI-FseAWVFaUnWPti-Lk",
+          "anchor": "v-1J7QJBWevPLSUgI-FseAWVFaUnWPti-Lk",
+          "href": "s2.html#v-1J7QJBWevPLSUgI-FseAWVFaUnWPti-Lk"
+        },
+        {
+          "number": 2,
+          "title": "C# vs .NET",
+          "id": "1KfctpiTfoIeiUii7aT_OsAvws27SmrfG",
+          "anchor": "v-1KfctpiTfoIeiUii7aT_OsAvws27SmrfG",
+          "href": "s2.html#v-1KfctpiTfoIeiUii7aT_OsAvws27SmrfG"
+        },
+        {
+          "number": 3,
+          "title": "What is CLR",
+          "id": "1gaN5KCFF95kTtucIcrIupmbBab_hs9-S",
+          "anchor": "v-1gaN5KCFF95kTtucIcrIupmbBab_hs9-S",
+          "href": "s2.html#v-1gaN5KCFF95kTtucIcrIupmbBab_hs9-S"
+        },
+        {
+          "number": 4,
+          "title": "Architecture of .NET Applications",
+          "id": "1UFRL7afP54R1fe2KPJFDxkyMnRMC4Rmd",
+          "anchor": "v-1UFRL7afP54R1fe2KPJFDxkyMnRMC4Rmd",
+          "href": "s2.html#v-1UFRL7afP54R1fe2KPJFDxkyMnRMC4Rmd"
+        },
+        {
+          "number": 5,
+          "title": "Our First C# Application",
+          "id": "1OdZMWjV45V0M3URKyIHk00FVxH_j-iHN",
+          "anchor": "v-1OdZMWjV45V0M3URKyIHk00FVxH_j-iHN",
+          "href": "s2.html#v-1OdZMWjV45V0M3URKyIHk00FVxH_j-iHN"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Primitive Types and Expressions",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1HxJimrjgxLjaHOTeXgqCgEexJaVYgk7S",
+          "anchor": "v-1HxJimrjgxLjaHOTeXgqCgEexJaVYgk7S",
+          "href": "s3.html#v-1HxJimrjgxLjaHOTeXgqCgEexJaVYgk7S"
+        },
+        {
+          "number": 2,
+          "title": "Variables and Constants",
+          "id": "130AFWFu2MTCyCKHmaO6kmjdvhWSRPA6b",
+          "anchor": "v-130AFWFu2MTCyCKHmaO6kmjdvhWSRPA6b",
+          "href": "s3.html#v-130AFWFu2MTCyCKHmaO6kmjdvhWSRPA6b"
+        },
+        {
+          "number": 3,
+          "title": "Overflowing",
+          "id": "15KTQKsEUZK3K3yBtkf3J0aDlYxdGRDzG",
+          "anchor": "v-15KTQKsEUZK3K3yBtkf3J0aDlYxdGRDzG",
+          "href": "s3.html#v-15KTQKsEUZK3K3yBtkf3J0aDlYxdGRDzG"
+        },
+        {
+          "number": 4,
+          "title": "Scope",
+          "id": "12Jecwqn8f_K6-7NXDr2XNvq0kishVjO3",
+          "anchor": "v-12Jecwqn8f_K6-7NXDr2XNvq0kishVjO3",
+          "href": "s3.html#v-12Jecwqn8f_K6-7NXDr2XNvq0kishVjO3"
+        },
+        {
+          "number": 5,
+          "title": "Demo Variables and Constants",
+          "id": "1Plk1ZCmqjWfAip-pp6YvOYDegwRaDk2m",
+          "anchor": "v-1Plk1ZCmqjWfAip-pp6YvOYDegwRaDk2m",
+          "href": "s3.html#v-1Plk1ZCmqjWfAip-pp6YvOYDegwRaDk2m"
+        },
+        {
+          "number": 6,
+          "title": "Type Conversion",
+          "id": "1PaXDAAFIX9U6Xstq66Od-XydsfeJJCl-",
+          "anchor": "v-1PaXDAAFIX9U6Xstq66Od-XydsfeJJCl-",
+          "href": "s3.html#v-1PaXDAAFIX9U6Xstq66Od-XydsfeJJCl-"
+        },
+        {
+          "number": 7,
+          "title": "Demo Type Conversion",
+          "id": "138_hosby6vNOlCoqH7iEcl2OstMErFTb",
+          "anchor": "v-138_hosby6vNOlCoqH7iEcl2OstMErFTb",
+          "href": "s3.html#v-138_hosby6vNOlCoqH7iEcl2OstMErFTb"
+        },
+        {
+          "number": 8,
+          "title": "Operators",
+          "id": "1bCdr7k1IDrYoWAuIdh6mTG-GD7xi7HF9",
+          "anchor": "v-1bCdr7k1IDrYoWAuIdh6mTG-GD7xi7HF9",
+          "href": "s3.html#v-1bCdr7k1IDrYoWAuIdh6mTG-GD7xi7HF9"
+        },
+        {
+          "number": 9,
+          "title": "Demo Operators",
+          "id": "1AKlk8r1bq1AsRxKRn2g5e4M_Yu56XEci",
+          "anchor": "v-1AKlk8r1bq1AsRxKRn2g5e4M_Yu56XEci",
+          "href": "s3.html#v-1AKlk8r1bq1AsRxKRn2g5e4M_Yu56XEci"
+        },
+        {
+          "number": 10,
+          "title": "Comments",
+          "id": "1lZnzdf7f5mlb4lEGpok4E-9-uKW683AW",
+          "anchor": "v-1lZnzdf7f5mlb4lEGpok4E-9-uKW683AW",
+          "href": "s3.html#v-1lZnzdf7f5mlb4lEGpok4E-9-uKW683AW"
+        },
+        {
+          "number": 11,
+          "title": "Summary",
+          "id": "1rFBLoyuZ8uzgJ7QO6PSldWdwP1C2B-jk",
+          "anchor": "v-1rFBLoyuZ8uzgJ7QO6PSldWdwP1C2B-jk",
+          "href": "s3.html#v-1rFBLoyuZ8uzgJ7QO6PSldWdwP1C2B-jk"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Non-Primitive Types",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1Q9fKlsTycKUSVGJSua2lUcLqCop5K5Q2",
+          "anchor": "v-1Q9fKlsTycKUSVGJSua2lUcLqCop5K5Q2",
+          "href": "s4.html#v-1Q9fKlsTycKUSVGJSua2lUcLqCop5K5Q2"
+        },
+        {
+          "number": 2,
+          "title": "Classes",
+          "id": "1HazePx6zaJEd-krxRzvpn2SkoAJnYRwQ",
+          "anchor": "v-1HazePx6zaJEd-krxRzvpn2SkoAJnYRwQ",
+          "href": "s4.html#v-1HazePx6zaJEd-krxRzvpn2SkoAJnYRwQ"
+        },
+        {
+          "number": 3,
+          "title": "Demo Classes",
+          "id": "1ulezavfQqvIBWFzuI7SAJR-sIJiD8A-I",
+          "anchor": "v-1ulezavfQqvIBWFzuI7SAJR-sIJiD8A-I",
+          "href": "s4.html#v-1ulezavfQqvIBWFzuI7SAJR-sIJiD8A-I"
+        },
+        {
+          "number": 4,
+          "title": "Structs",
+          "id": "1YQb6gebW-uo0ZwF99HIdAXb4uNCFY_4j",
+          "anchor": "v-1YQb6gebW-uo0ZwF99HIdAXb4uNCFY_4j",
+          "href": "s4.html#v-1YQb6gebW-uo0ZwF99HIdAXb4uNCFY_4j"
+        },
+        {
+          "number": 5,
+          "title": "Arrays",
+          "id": "18aTB5gjM-8gpDO0NCkg4-OS8YEkMmmzg",
+          "anchor": "v-18aTB5gjM-8gpDO0NCkg4-OS8YEkMmmzg",
+          "href": "s4.html#v-18aTB5gjM-8gpDO0NCkg4-OS8YEkMmmzg"
+        },
+        {
+          "number": 6,
+          "title": "Demo Arrays",
+          "id": "1D8kYA9fkHQO53q_If9Mr4FsTpopRjGVt",
+          "anchor": "v-1D8kYA9fkHQO53q_If9Mr4FsTpopRjGVt",
+          "href": "s4.html#v-1D8kYA9fkHQO53q_If9Mr4FsTpopRjGVt"
+        },
+        {
+          "number": 7,
+          "title": "Strings",
+          "id": "1eDVW_1aKfS9VEpHfOn44s29texZ2NM4j",
+          "anchor": "v-1eDVW_1aKfS9VEpHfOn44s29texZ2NM4j",
+          "href": "s4.html#v-1eDVW_1aKfS9VEpHfOn44s29texZ2NM4j"
+        },
+        {
+          "number": 8,
+          "title": "Demo Strings",
+          "id": "14iRhnzXiAjrn1fcOryGDR2KCcS3Hci5r",
+          "anchor": "v-14iRhnzXiAjrn1fcOryGDR2KCcS3Hci5r",
+          "href": "s4.html#v-14iRhnzXiAjrn1fcOryGDR2KCcS3Hci5r"
+        },
+        {
+          "number": 9,
+          "title": "Enums",
+          "id": "1JJuF-Ob6GCnJspQVDGPCucW-xFH2KCVD",
+          "anchor": "v-1JJuF-Ob6GCnJspQVDGPCucW-xFH2KCVD",
+          "href": "s4.html#v-1JJuF-Ob6GCnJspQVDGPCucW-xFH2KCVD"
+        },
+        {
+          "number": 10,
+          "title": "Demo Enums",
+          "id": "1PPC_Hu-wBQSl59uh8VYTYjnwi3JGnGa_",
+          "anchor": "v-1PPC_Hu-wBQSl59uh8VYTYjnwi3JGnGa_",
+          "href": "s4.html#v-1PPC_Hu-wBQSl59uh8VYTYjnwi3JGnGa_"
+        },
+        {
+          "number": 11,
+          "title": "Reference Types and Value Types",
+          "id": "1bLsDK2dMa9hzkbRSMOfWEMGwUXa8Zerj",
+          "anchor": "v-1bLsDK2dMa9hzkbRSMOfWEMGwUXa8Zerj",
+          "href": "s4.html#v-1bLsDK2dMa9hzkbRSMOfWEMGwUXa8Zerj"
+        },
+        {
+          "number": 12,
+          "title": "Demo Reference Types and Value Types",
+          "id": "1yyekp1DzsPORY6dO3yWYeMttekxL-Tbh",
+          "anchor": "v-1yyekp1DzsPORY6dO3yWYeMttekxL-Tbh",
+          "href": "s4.html#v-1yyekp1DzsPORY6dO3yWYeMttekxL-Tbh"
+        },
+        {
+          "number": 13,
+          "title": "Demo Reference Types and Value Types",
+          "id": "1sE6qzN12Qhl7hWo8iEYiAomUf1nkewc5",
+          "anchor": "v-1sE6qzN12Qhl7hWo8iEYiAomUf1nkewc5",
+          "href": "s4.html#v-1sE6qzN12Qhl7hWo8iEYiAomUf1nkewc5"
+        },
+        {
+          "number": 14,
+          "title": "Summary",
+          "id": "1STmreJvbpLCTa218lLoT8_B36QiB-t8x",
+          "anchor": "v-1STmreJvbpLCTa218lLoT8_B36QiB-t8x",
+          "href": "s4.html#v-1STmreJvbpLCTa218lLoT8_B36QiB-t8x"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Control Flow",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1qX7WS7QNsSzAqGqNhy_c7alHCHDJZYto",
+          "anchor": "v-1qX7WS7QNsSzAqGqNhy_c7alHCHDJZYto",
+          "href": "s5.html#v-1qX7WS7QNsSzAqGqNhy_c7alHCHDJZYto"
+        },
+        {
+          "number": 2,
+          "title": "Conditional Statements",
+          "id": "1huzDdYc8PaGBQ51bBjKg-JyhxPlyLNTz",
+          "anchor": "v-1huzDdYc8PaGBQ51bBjKg-JyhxPlyLNTz",
+          "href": "s5.html#v-1huzDdYc8PaGBQ51bBjKg-JyhxPlyLNTz"
+        },
+        {
+          "number": 3,
+          "title": "Demo IfElse and SwitchCase",
+          "id": "1R6mgzTPsBewkwFGt6iHEOvSk5NLSt8Rt",
+          "anchor": "v-1R6mgzTPsBewkwFGt6iHEOvSk5NLSt8Rt",
+          "href": "s5.html#v-1R6mgzTPsBewkwFGt6iHEOvSk5NLSt8Rt"
+        },
+        {
+          "number": 4,
+          "title": "Iteration Statements",
+          "id": "1sC7PQcRzaW5Q3D8QMIDrxW_vq4VQJ_TF",
+          "anchor": "v-1sC7PQcRzaW5Q3D8QMIDrxW_vq4VQJ_TF",
+          "href": "s5.html#v-1sC7PQcRzaW5Q3D8QMIDrxW_vq4VQJ_TF"
+        },
+        {
+          "number": 5,
+          "title": "Demo For Loops",
+          "id": "1xszn0iybsEA1dQcWjdeu7KHV6t9IDNAq",
+          "anchor": "v-1xszn0iybsEA1dQcWjdeu7KHV6t9IDNAq",
+          "href": "s5.html#v-1xszn0iybsEA1dQcWjdeu7KHV6t9IDNAq"
+        },
+        {
+          "number": 6,
+          "title": "Demo Foreach Loops",
+          "id": "1o4P3mQBWPSCCvagTwNQImS-Vtzgy7PBv",
+          "anchor": "v-1o4P3mQBWPSCCvagTwNQImS-Vtzgy7PBv",
+          "href": "s5.html#v-1o4P3mQBWPSCCvagTwNQImS-Vtzgy7PBv"
+        },
+        {
+          "number": 7,
+          "title": "Demo While Loops",
+          "id": "11NR6xmeQd41fVqvzrBhyrKg6dRPiTUC_",
+          "anchor": "v-11NR6xmeQd41fVqvzrBhyrKg6dRPiTUC_",
+          "href": "s5.html#v-11NR6xmeQd41fVqvzrBhyrKg6dRPiTUC_"
+        },
+        {
+          "number": 8,
+          "title": "Random Class",
+          "id": "1wn3favrmrdayM9XIPJAveRGvvnsexIUh",
+          "anchor": "v-1wn3favrmrdayM9XIPJAveRGvvnsexIUh",
+          "href": "s5.html#v-1wn3favrmrdayM9XIPJAveRGvvnsexIUh"
+        },
+        {
+          "number": 9,
+          "title": "Summary",
+          "id": "1tIyH-rhSHh98VjpssTxCO5u2DAJwgV4Y",
+          "anchor": "v-1tIyH-rhSHh98VjpssTxCO5u2DAJwgV4Y",
+          "href": "s5.html#v-1tIyH-rhSHh98VjpssTxCO5u2DAJwgV4Y"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Arrays and Lists",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "17iiDRPG7dvh3cK_3mdcVvSpmicSIm4KM",
+          "anchor": "v-17iiDRPG7dvh3cK_3mdcVvSpmicSIm4KM",
+          "href": "s6.html#v-17iiDRPG7dvh3cK_3mdcVvSpmicSIm4KM"
+        },
+        {
+          "number": 2,
+          "title": "Arrays",
+          "id": "1PYvuno5uQlSDTx0n5QGQxEoFJ4UeLA00",
+          "anchor": "v-1PYvuno5uQlSDTx0n5QGQxEoFJ4UeLA00",
+          "href": "s6.html#v-1PYvuno5uQlSDTx0n5QGQxEoFJ4UeLA00"
+        },
+        {
+          "number": 3,
+          "title": "Demo Arrays",
+          "id": "1ecJR-HljHX5scj7olfeWWL4Avq3Vmcvd",
+          "anchor": "v-1ecJR-HljHX5scj7olfeWWL4Avq3Vmcvd",
+          "href": "s6.html#v-1ecJR-HljHX5scj7olfeWWL4Avq3Vmcvd"
+        },
+        {
+          "number": 4,
+          "title": "Lists",
+          "id": "1ckER5MlK4632vZd81y8GsclCGeMaYIvA",
+          "anchor": "v-1ckER5MlK4632vZd81y8GsclCGeMaYIvA",
+          "href": "s6.html#v-1ckER5MlK4632vZd81y8GsclCGeMaYIvA"
+        },
+        {
+          "number": 5,
+          "title": "Demo Lists",
+          "id": "1hH19z1FIUbi2cOSG06GbM6MXzIFK80Fq",
+          "anchor": "v-1hH19z1FIUbi2cOSG06GbM6MXzIFK80Fq",
+          "href": "s6.html#v-1hH19z1FIUbi2cOSG06GbM6MXzIFK80Fq"
+        },
+        {
+          "number": 6,
+          "title": "Summary",
+          "id": "1PY4StAdjlxniFxVkLoS_Dn_8D7j2tTqJ",
+          "anchor": "v-1PY4StAdjlxniFxVkLoS_Dn_8D7j2tTqJ",
+          "href": "s6.html#v-1PY4StAdjlxniFxVkLoS_Dn_8D7j2tTqJ"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Working with Dates",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1izwOFfO-fagwx2ayECDc2jFDkUTeTzhw",
+          "anchor": "v-1izwOFfO-fagwx2ayECDc2jFDkUTeTzhw",
+          "href": "s7.html#v-1izwOFfO-fagwx2ayECDc2jFDkUTeTzhw"
+        },
+        {
+          "number": 2,
+          "title": "DateTime",
+          "id": "1O3J8tz2sQreLJtyQ7EAER-T49Sfyi6_q",
+          "anchor": "v-1O3J8tz2sQreLJtyQ7EAER-T49Sfyi6_q",
+          "href": "s7.html#v-1O3J8tz2sQreLJtyQ7EAER-T49Sfyi6_q"
+        },
+        {
+          "number": 3,
+          "title": "TimeSpan",
+          "id": "1VhHyIaZ14JXBNDCvn2GsvB--jLPW2t2i",
+          "anchor": "v-1VhHyIaZ14JXBNDCvn2GsvB--jLPW2t2i",
+          "href": "s7.html#v-1VhHyIaZ14JXBNDCvn2GsvB--jLPW2t2i"
+        },
+        {
+          "number": 4,
+          "title": "Summary",
+          "id": "1Vu3EDSzf0cn94qI_L_LprY3aTEb4g-ED",
+          "anchor": "v-1Vu3EDSzf0cn94qI_L_LprY3aTEb4g-ED",
+          "href": "s7.html#v-1Vu3EDSzf0cn94qI_L_LprY3aTEb4g-ED"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Working with Text",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1FDb_XPc-iWw8CTWwNiV2SbVEqoQAPwJM",
+          "anchor": "v-1FDb_XPc-iWw8CTWwNiV2SbVEqoQAPwJM",
+          "href": "s8.html#v-1FDb_XPc-iWw8CTWwNiV2SbVEqoQAPwJM"
+        },
+        {
+          "number": 2,
+          "title": "String",
+          "id": "1bfvfGQAT1e-rKMr_hAK6mFQ0FOFkby9J",
+          "anchor": "v-1bfvfGQAT1e-rKMr_hAK6mFQ0FOFkby9J",
+          "href": "s8.html#v-1bfvfGQAT1e-rKMr_hAK6mFQ0FOFkby9J"
+        },
+        {
+          "number": 3,
+          "title": "Demo String",
+          "id": "1x17IiHkXxhw6FSW2Xh8L3K-HnnTXnc1p",
+          "anchor": "v-1x17IiHkXxhw6FSW2Xh8L3K-HnnTXnc1p",
+          "href": "s8.html#v-1x17IiHkXxhw6FSW2Xh8L3K-HnnTXnc1p"
+        },
+        {
+          "number": 4,
+          "title": "Live Coding Summarising Text",
+          "id": "1eMIEZPP8gXvEkff274R-ZbXi0v6Q3Sdi",
+          "anchor": "v-1eMIEZPP8gXvEkff274R-ZbXi0v6Q3Sdi",
+          "href": "s8.html#v-1eMIEZPP8gXvEkff274R-ZbXi0v6Q3Sdi"
+        },
+        {
+          "number": 5,
+          "title": "StringBuilder",
+          "id": "1kOC08Z8kuaJX8yvyPeBDjtZYFvTmNt7j",
+          "anchor": "v-1kOC08Z8kuaJX8yvyPeBDjtZYFvTmNt7j",
+          "href": "s8.html#v-1kOC08Z8kuaJX8yvyPeBDjtZYFvTmNt7j"
+        },
+        {
+          "number": 6,
+          "title": "Demo StringBuilder",
+          "id": "1Db2Zu9w6sxz0kY__dR-GVZVPstOrzDMT",
+          "anchor": "v-1Db2Zu9w6sxz0kY__dR-GVZVPstOrzDMT",
+          "href": "s8.html#v-1Db2Zu9w6sxz0kY__dR-GVZVPstOrzDMT"
+        },
+        {
+          "number": 7,
+          "title": "Procedural Programming",
+          "id": "1T-Ya8Cpv8DAj5zkCHjsMAGSvL7zIg5G4",
+          "anchor": "v-1T-Ya8Cpv8DAj5zkCHjsMAGSvL7zIg5G4",
+          "href": "s8.html#v-1T-Ya8Cpv8DAj5zkCHjsMAGSvL7zIg5G4"
+        },
+        {
+          "number": 8,
+          "title": "Summary",
+          "id": "1YnzwB-ysvAizDT2FfBBGAazWfACeKR0n",
+          "anchor": "v-1YnzwB-ysvAizDT2FfBBGAazWfACeKR0n",
+          "href": "s8.html#v-1YnzwB-ysvAizDT2FfBBGAazWfACeKR0n"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Working with Files",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "19vh_SKj-q_9klJXkYE0qBuXrh9YJndXC",
+          "anchor": "v-19vh_SKj-q_9klJXkYE0qBuXrh9YJndXC",
+          "href": "s9.html#v-19vh_SKj-q_9klJXkYE0qBuXrh9YJndXC"
+        },
+        {
+          "number": 2,
+          "title": "System.IO Namespace",
+          "id": "1T-3wNz8pK8yd1PLJMZ3uq1jn_3tgS1Mf",
+          "anchor": "v-1T-3wNz8pK8yd1PLJMZ3uq1jn_3tgS1Mf",
+          "href": "s9.html#v-1T-3wNz8pK8yd1PLJMZ3uq1jn_3tgS1Mf"
+        },
+        {
+          "number": 3,
+          "title": "Demo File and FileInfo",
+          "id": "15BYYpftWjk4t7glYgTbnvgQoWjrQ4Kwb",
+          "anchor": "v-15BYYpftWjk4t7glYgTbnvgQoWjrQ4Kwb",
+          "href": "s9.html#v-15BYYpftWjk4t7glYgTbnvgQoWjrQ4Kwb"
+        },
+        {
+          "number": 4,
+          "title": "Demo Directory and DirectoryInfo",
+          "id": "1qAnAx5qCB5sRNWQS-9TvOPnMXSXEOXVQ",
+          "anchor": "v-1qAnAx5qCB5sRNWQS-9TvOPnMXSXEOXVQ",
+          "href": "s9.html#v-1qAnAx5qCB5sRNWQS-9TvOPnMXSXEOXVQ"
+        },
+        {
+          "number": 5,
+          "title": "Demo Path",
+          "id": "1mTLryUQ6JdJIiZnqDCbPlM-gTDXHqa5L",
+          "anchor": "v-1mTLryUQ6JdJIiZnqDCbPlM-gTDXHqa5L",
+          "href": "s9.html#v-1mTLryUQ6JdJIiZnqDCbPlM-gTDXHqa5L"
+        },
+        {
+          "number": 6,
+          "title": "Summary",
+          "id": "1X2BAV_I9UM4hiMkIrwTgT7dcBheb1XBV",
+          "anchor": "v-1X2BAV_I9UM4hiMkIrwTgT7dcBheb1XBV",
+          "href": "s9.html#v-1X2BAV_I9UM4hiMkIrwTgT7dcBheb1XBV"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Debugging Applications",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1bQKR8W6XNtV1GGPmkEqOtUfmALbLPXvi",
+          "anchor": "v-1bQKR8W6XNtV1GGPmkEqOtUfmALbLPXvi",
+          "href": "s10.html#v-1bQKR8W6XNtV1GGPmkEqOtUfmALbLPXvi"
+        },
+        {
+          "number": 2,
+          "title": "Debugging Tools in Visual Studio",
+          "id": "1YiRG5GAVoY1e7Ct8UOwSW6Nl-teIwwgy",
+          "anchor": "v-1YiRG5GAVoY1e7Ct8UOwSW6Nl-teIwwgy",
+          "href": "s10.html#v-1YiRG5GAVoY1e7Ct8UOwSW6Nl-teIwwgy"
+        },
+        {
+          "number": 3,
+          "title": "Removing Side Effects",
+          "id": "1J9M_ctCj9-obcI9Pwrqd1WDW7KjH-mfa",
+          "anchor": "v-1J9M_ctCj9-obcI9Pwrqd1WDW7KjH-mfa",
+          "href": "s10.html#v-1J9M_ctCj9-obcI9Pwrqd1WDW7KjH-mfa"
+        },
+        {
+          "number": 4,
+          "title": "Defensive Programming",
+          "id": "1BxedmGREiTtVrNlcYCwXGXylnYTPUP7B",
+          "anchor": "v-1BxedmGREiTtVrNlcYCwXGXylnYTPUP7B",
+          "href": "s10.html#v-1BxedmGREiTtVrNlcYCwXGXylnYTPUP7B"
+        },
+        {
+          "number": 5,
+          "title": "Call Stack Window",
+          "id": "1hly4t1Lr_oPMWn4F7r2J9BwW8m7Y1gLu",
+          "anchor": "v-1hly4t1Lr_oPMWn4F7r2J9BwW8m7Y1gLu",
+          "href": "s10.html#v-1hly4t1Lr_oPMWn4F7r2J9BwW8m7Y1gLu"
+        },
+        {
+          "number": 6,
+          "title": "Locals and Autos Windows",
+          "id": "1pbiRD7dndPe-hQCWecokcLnh6jDb0r3J",
+          "anchor": "v-1pbiRD7dndPe-hQCWecokcLnh6jDb0r3J",
+          "href": "s10.html#v-1pbiRD7dndPe-hQCWecokcLnh6jDb0r3J"
+        },
+        {
+          "number": 7,
+          "title": "Summary",
+          "id": "19Dv-CU8_Q8XHaVcfIirjId6qBAvosQq5",
+          "anchor": "v-19Dv-CU8_Q8XHaVcfIirjId6qBAvosQq5",
+          "href": "s10.html#v-19Dv-CU8_Q8XHaVcfIirjId6qBAvosQq5"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "What s Next",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What s Next",
+          "id": "1B_DDrwL0I7-Df99lMfHYgiA7b2Rj9zPs",
+          "anchor": "v-1B_DDrwL0I7-Df99lMfHYgiA7b2Rj9zPs",
+          "href": "s11.html#v-1B_DDrwL0I7-Df99lMfHYgiA7b2Rj9zPs"
+        },
+        {
+          "number": 2,
+          "title": "Final Words",
+          "id": "1CaSNyrmzmdON7l010Ralq5AuPMiQy9Js",
+          "anchor": "v-1CaSNyrmzmdON7l010Ralq5AuPMiQy9Js",
+          "href": "s11.html#v-1CaSNyrmzmdON7l010Ralq5AuPMiQy9Js"
+        }
+      ]
+    }
+  ]
+}
